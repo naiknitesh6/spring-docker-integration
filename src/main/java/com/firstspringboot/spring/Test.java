@@ -21,6 +21,6 @@ public class Test
 {@GetMapping("/home")
 	public String home()
 	{
-		return "Docker project";
+		return "Docker project11";
 	}
 }
